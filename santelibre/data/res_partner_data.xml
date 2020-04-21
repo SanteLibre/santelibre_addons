@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="base.main_partner" model="res.partner">
+        <field name="name">Le collectif SantéLibre</field>
+        <field name="customer" eval="False"/>
+        <field name="is_company" eval="True"/>
+        <field name="company_name">SantéLibre</field>
+        <field name="street"></field>
+        <field name="city"></field>
+        <field name="zip"></field>
+        <field name="country_id" ref='base.ca'/>
+        <field name="state_id" ref='base.state_ca_qc'/>
+        <field name="phone"></field>
+        <field name="email">info@santelibre.ca</field>
+        <field name="website">www.santelibre.ca</field>
+        <field name="image" type="base64" file="santelibre/static/img/santelibre_logo.png"/>
+    </record>
+</odoo>

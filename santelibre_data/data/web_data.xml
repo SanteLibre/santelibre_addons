@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="favicon" model="ir.attachment">
+        <field name="datas_fname">santelibre.ico</field>
+        <field name="name">santelibre_favicon</field>
+        <field name="datas" type="base64" file="santelibre_data/static/img/santelibre.ico"/>
+    </record>
+</odoo>
