@@ -1,0 +1,557 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* santelibre_website_data
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 12.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-26 06:06+0000\n"
+"PO-Revision-Date: 2020-03-26 06:06+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "4\n"
+"                                                    libertés"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "<b>\n"
+"                                                    <font style=\"font-size: 62px;\">Pour\n"
+"                                                        offrir un second\n"
+"                                                    </font>\n"
+"                                                    <font style=\"color: rgb(55, 65, 231); font-size: 62px;\">\n"
+"                                                        <b>souffle</b>\n"
+"                                                    </font>\n"
+"                                                </b>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "<b>Les membres de l'équipe de SantéLibre\n"
+"                                                    font ce concours sur une base\n"
+"                                                    volontaire et bénévole.\n"
+"                                                </b>\n"
+"                                                <span>Les coûts de conception et de\n"
+"                                                    production du prototype de\n"
+"                                                    ventilateur artificiel doivent être\n"
+"                                                    assumés par ces bénévoles. La\n"
+"                                                    débrouillardise est mise à\n"
+"                                                    contribution, mais n'est pas\n"
+"                                                    toujours suffisante. De plus, comme\n"
+"                                                    il s'agit d'une crise et que les\n"
+"                                                    solutions doivent être trouvées\n"
+"                                                    rapidement, les canaux de\n"
+"                                                    financement réguliers ne sont pas\n"
+"                                                    disponibles. Nous faisons appel à\n"
+"                                                    votre aide pour produire le plus\n"
+"                                                    rapidement une solution viable.\n"
+"                                                    <br/>\n"
+"                                                </span>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "<b>Tous les dons iront à la conception\n"
+"                                                    et la réalisation d'un prototype de\n"
+"                                                    respirateur artificiel.\n"
+"                                                </b>\n"
+"                                                <span>Advenant le cas que les sommes\n"
+"                                                    amassées seraient supérieures aux\n"
+"                                                    besoins pour le prototype,\n"
+"                                                    SantéLibre, en assemblée générale,\n"
+"                                                    déterminera la meilleure façon\n"
+"                                                    d'utiliser l'argent, dans l'esprit\n"
+"                                                    de partage, d'aide communautaire et\n"
+"                                                    de résolution de problèmes en santé.\n"
+"                                                </span>\n"
+"                                                <b/>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "<font class=\"text-alpha\" style=\"\">\n"
+"                                                    Joindre l'équipe\n"
+"                                                </font>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "<font class=\"text-alpha\" style=\"font-size: 36px;\">Le libre,\n"
+"                                                    la santé et l'urgence d'agir\n"
+"                                                </font>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "<font style=\"font-size: 14px;\">Nous\n"
+"                                                    visons\n"
+"                                                </font>\n"
+"                                                <b>\n"
+"                                                    <font style=\"color: rgb(55, 65, 231); font-size: 14px;\">\n"
+"                                                        <b>un objectif de 5000$</b>\n"
+"                                                    </font>\n"
+"                                                </b>\n"
+"                                                <font style=\"font-size: 14px;\">pour\n"
+"                                                    réussir le prototype de ventilateur,\n"
+"                                                    tous les montants comptent!\n"
+"                                                </font>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "<font style=\"font-size: 14px;\">Veuillez\n"
+"                                                    remplir le formulaire ci-dessous et\n"
+"                                                    nous vous contacterons avec les\n"
+"                                                    instructions pour procéder, les dons\n"
+"                                                    s'effectueront par virements.\n"
+"                                                </font>\n"
+"                                                <br/>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "<font style=\"font-size: 18px;\">Nous\n"
+"                                                    sommes à la\n"
+"                                                    <b>\n"
+"                                                        recherche\n"
+"                                                    </b>\n"
+"                                                    , le plus rapidement possible, de\n"
+"                                                    <b>\n"
+"                                                        programmeurs Web\n"
+"                                                        backend-frontend-embarqué\n"
+"                                                    </b>\n"
+"                                                    , d'\n"
+"                                                    <b>\n"
+"                                                        ingénieurs mécaniques\n"
+"                                                    </b>\n"
+"                                                    et de\n"
+"                                                    <b>\n"
+"                                                        techniciens\n"
+"                                                        de modélisation 3D\n"
+"                                                    </b>\n"
+"                                                    .\n"
+"                                                </font>\n"
+"                                                <br/>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "<font style=\"font-size: 36px;\" class=\"text-alpha\">Concevoir un\n"
+"                                                    respirateur artificiel en 10 jours\n"
+"                                                </font>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "<font style=\"font-size: 36px;\" class=\"text-alpha\">Pourquoi faire\n"
+"                                                    un don?\n"
+"                                                </font>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "<font style=\"font-size: 36px;\" class=\"text-alpha\">Un collectif\n"
+"                                                    libre d'experts\n"
+"                                                </font>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "<i>\n"
+"                                                            <span style=\"-webkit-text-stroke-width: 0px; color: rgb(68, 68, 68); display: inline !important; float: none; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Meiryo UI&quot;, Arial, sans-serif; font-size: 14px; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-decoration-color: initial; text-decoration-style: initial; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px;\">\n"
+"                                                                Je rêve d'un accès\n"
+"                                                                universel\n"
+"                                                                aux soins de santé et de\n"
+"                                                                traitements de qualité\n"
+"                                                                pour\n"
+"                                                                tous; faisons oeuvre\n"
+"                                                                commune\n"
+"                                                                et joignons nos forces\n"
+"                                                                pour\n"
+"                                                                que cela soit possible.\n"
+"                                                                Toutes les petites\n"
+"                                                                contributions\n"
+"                                                                individuelles\n"
+"                                                                dans un effort collectif\n"
+"                                                                font rouler la\n"
+"                                                                civilisation.\n"
+"                                                            </span>\n"
+"                                                        </i>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "<i>\n"
+"                                                            <span style=\"-webkit-text-stroke-width: 0px; color: rgb(68, 68, 68); display: inline !important; float: none; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Meiryo UI&quot;, Arial, sans-serif; font-size: 14px; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-decoration-color: initial; text-decoration-style: initial; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px;\">\n"
+"                                                                Les grands\n"
+"                                                                bouleversements\n"
+"                                                                ont toujours été à\n"
+"                                                                l'origine\n"
+"                                                                de grandes innovations.\n"
+"                                                                Ce\n"
+"                                                                qui distingue la\n"
+"                                                                pandémie du\n"
+"                                                                COVID19, c'est notre\n"
+"                                                                capacité moderne de\n"
+"                                                                communication, nos\n"
+"                                                                connaissances\n"
+"                                                                scientifiques\n"
+"                                                                et notre capacité\n"
+"                                                                technologique. En\n"
+"                                                                unissant\n"
+"                                                                ces forces au profit de\n"
+"                                                                de\n"
+"                                                                la société, je n'ai\n"
+"                                                                aucun\n"
+"                                                                doute que nous pouvons\n"
+"                                                                développer des\n"
+"                                                                technologies,\n"
+"                                                                afin de sauver des vies\n"
+"                                                                aujourd'hui, et encore\n"
+"                                                                plus\n"
+"                                                                demain.\n"
+"                                                            </span>\n"
+"                                                        </i>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "<span class=\"carousel-control-next-icon\"/>\n"
+"                                    <span class=\"sr-only o_default_snippet_text\">\n"
+"                                        Suivant\n"
+"                                    </span>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "<span class=\"carousel-control-prev-icon\"/>\n"
+"                                    <span class=\"sr-only o_default_snippet_text\">\n"
+"                                        Précédent\n"
+"                                    </span>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.layout_footer_copyright_hide
+msgid "<span>- 2020</span>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "<span>Catégorie</span>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "<span>Courriel</span>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "<span>Expertise</span>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "<span>Je ne veux pas que mon nom\n"
+"                                                    apparaisse dans la liste publique\n"
+"                                                    des donateurs.\n"
+"                                                </span>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "<span>Nom</span>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "<span>Titre</span>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.layout_footer_copyright_hide
+msgid "<span>Tous droits réservés -</span>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "<span>Votre motivation</span>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model:website.menu,name:santelibre_website_data.main_menu
+msgid "Default Main Menu"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "Donation"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "Découvrir le concours"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "Découvrir le libre"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model:website.menu,name:santelibre_website_data.menu_website_dons
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "Faire un don"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "J'aide"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "Je m'inscris"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "Join\n"
+"                                                team"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model:website.menu,name:santelibre_website_data.menu_website_joindre
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "Joindre l'équipe"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "La <i>\n"
+"                                                Montreal General Hospital Foundation</i>,\n"
+"                                                en collaboration avec la <i>Research\n"
+"                                                    Institute of the McGill University\n"
+"                                                    Health Centre\n"
+"                                                </i> a lancé un défi d’innovation global\n"
+"                                                qui a pour objectif de concevoir,\n"
+"                                                fabriquer et tester un prototype de\n"
+"                                                ventilateur respiratoire accessible,\n"
+"                                                rapide et facile à fabriquer qui pourra\n"
+"                                                ensuite être redistribué dans les\n"
+"                                                hôpitaux pour faire face à la demande\n"
+"                                                potentielle créée par la pandémie du\n"
+"                                                COVID-19.\n"
+"                                                <br/>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.layout_footer_copyright_hide
+msgid "Le collectif\n"
+"                            SantéLibre"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "Les membres\n"
+"                                                de l’équipe travaillent dans le\n"
+"                                                mouvement du Libre. C’est\n"
+"                                                dans un esprit de partage et de\n"
+"                                                communauté que le mouvement désire faire\n"
+"                                                avancer les enjeux de la société. Nous\n"
+"                                                croyons que le Libre\n"
+"                                                est la façon idéale de résoudre les\n"
+"                                                grandes crises et de réaliser des\n"
+"                                                avancements technologiques, car il fait\n"
+"                                                appel aux solutions de gens de divers\n"
+"                                                horizons, tout est ouvert et l’individu\n"
+"                                                ne profite pas directement des solutions\n"
+"                                                pour son profit personnel, mais dans le\n"
+"                                                cadre de l’avancement de la communauté.\n"
+"                                                La santé, physique et mentale, est un\n"
+"                                                besoin universel."
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "Logo de Démo"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "Nos partenaires"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "Notre\n"
+"                                                collectif libre d'experts est constitué\n"
+"                                                de plus de 30 professionnels\n"
+"                                                multidisciplinaires de tous horizons :\n"
+"                                                inhalothérapeute, pneumologue,\n"
+"                                                ingénieurs électriques, mécaniques et\n"
+"                                                biomécaniques, architecte de systèmes,\n"
+"                                                designers, programmeurs, gestionnaires\n"
+"                                                et spécialiste du langage et des\n"
+"                                                communications.<br/>Nous sommes à la <b>\n"
+"                                                    recherche</b>, le plus rapidement\n"
+"                                                possible, de <b>programmeurs Web\n"
+"                                                    backend-frontend-embarqué</b>, d'<b>\n"
+"                                                    ingénieurs mécaniques\n"
+"                                                </b> et de\n"
+"                                                <b>techniciens de modélisation 3D</b>.\n"
+"                                                <br/>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "Nous avons besoin de votre\n"
+"                                                support pour..."
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "Précedent"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "SantéLibre\n"
+"                                                regroupe des personnes qui valorisent\n"
+"                                                l’accès au soin pour tous en gratuité et\n"
+"                                                rapidité. En temps de pandémie, les\n"
+"                                                experts des milieux hospitaliers et de\n"
+"                                                la recherche font preuves de dévouement\n"
+"                                                et persévérance, même en condition de\n"
+"                                                crise. L’approvisionnement d’appareils\n"
+"                                                et outils médicaux est un système qui\n"
+"                                                bouge lentement, ce qui peut mener à une\n"
+"                                                pénurie d’appareils respiratoires. Nous\n"
+"                                                avons pris connaissance du problème par\n"
+"                                                l’entremise du concours « Code Life\n"
+"                                                Ventillator Challenge ». Ceci nous a\n"
+"                                                poussé à monter une équipe d’experts\n"
+"                                                multidisciplinaires pour répondre\n"
+"                                                rapidement et efficacement au besoin\n"
+"                                                tout en utilisant le partage, l'esprit\n"
+"                                                de communauté et la liberté d'utiliser\n"
+"                                                des concepts déjà proposés, ce qui\n"
+"                                                accélère grandement le processus.\n"
+"                                                <br/>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "Suivante"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "System • Image et Texte"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "System • Texte et Image"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "This placeholder prevents its parent from\n"
+"                                            disappearing when emptied"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "Un\n"
+"                                                collectif libre d’ingénieurs, d’experts\n"
+"                                                du domaine de la santé, de designers, de\n"
+"                                                gestionnaires et individus d'autres\n"
+"                                                horizons est né pour relever un défi de\n"
+"                                                taille : fabriquer un respirateur\n"
+"                                                artificiel à faible coût, facile\n"
+"                                                d’utilisation et local, en moins de 10\n"
+"                                                jours, pour les patients atteints du\n"
+"                                                COVID-19 sous l'égide d'un concours\n"
+"                                                lancé par la Fondation l'Hôpital général\n"
+"                                                de Montréal.<br/>« Ensembles, sortons\n"
+"                                                vainqueurs de la crise! ».\n"
+"                                                <br/>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model:website.menu,name:santelibre_website_data.menu_website_a_propos
+msgid "À propos"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "—Stéphanie Goupil,\n"
+"                                                        Inhalothérapeute,\n"
+"                                                        Hôpital Maisonneuve-Rosemont\n"
+"                                                        <font style=\"font-size: 10px;\">\n"
+"                                                            &amp;nbsp;\n"
+"                                                        </font>"
+msgstr ""
+
+#. module: santelibre_website_data
+#: model_terms:ir.ui.view,arch_db:santelibre_website_data.homepage
+#: model_terms:website.page,arch_db:santelibre_website_data.website_page_home
+msgid "—Xavier Deschênes-Simard,&amp;nbsp;\n"
+"                                                        MD, CM, PhD,&amp;nbsp;Résident\n"
+"                                                        Médecine Interne au CHUM"
+msgstr ""
+

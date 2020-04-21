@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+
+    <template id="website.footer_custom" inherit_id="website.layout" name="Footer">
+        <xpath expr="//div[@id='footer']" position="replace">
+            <div id="footer" class="oe_structure oe_structure_solo" t-ignore="true"
+                 t-if="not no_footer">
+                <section class="s_text_block pb8 pt32">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <h5>
+                                    <small>
+                                        <span style="font-size: 17.5px;">À propos de
+                                            SantéLibre
+                                        </span>
+                                    </small>
+                                </h5>
+                                <p style="text-align: justify; ">Un collectif libre
+                                    d’ingénieurs, d’experts du domaine
+                                    de la santé, de
+                                    designers, de gestionnaires et individus d'autres
+                                    horizons est né pour
+                                    relever un défi de taille : fabriquer un respirateur
+                                    artificiel à faible
+                                    coût, facile d’utilisation et local, en moins de 10
+                                    jours, pour les
+                                    patients atteints du COVID-19 sous l'égide d'un
+                                    concours lancé par la
+                                    Fondation l'Hôpital général de Montréal.<br/>«
+                                    Ensembles, sortons vainqueurs de la crise! ».
+                                </p>
+                            </div>
+                            <div class="col-lg-2 offset-lg-1" id="connect">
+                                <h5>
+                                    <span style="font-weight: normal;">
+                                        <font style="font-size: 18px;">Nous joindre
+                                        </font>
+                                    </span>
+                                </h5>
+                                <h5>
+                                    <font style="font-size: 18px;">
+                                        <br/>
+                                    </font>
+                                </h5>
+                                <ul class="list-unstyled">
+                                    <li>
+                                        <i class="fa fa-envelope"/>
+                                        <span t-field="res_company.email"/>
+                                        <br/>
+                                        <br/>
+                                    </li>
+                                </ul>
+                                <p>
+                                </p>
+                            </div>
+                            <div class="pt0 col-lg-2 offset-lg-1">
+                                <h5>
+                                    <span style="font-weight: normal;">Nous appuyer
+                                    </span>
+                                </h5>
+                                <h5>
+                                    <br/>
+                                </h5>
+                                <ul class="list-unstyled">
+                                    <li>
+                                        <a href="/#dons"
+                                           class="btn btn-outline-alpha"
+                                           data-original-title="" title=""
+                                           aria-describedby="tooltip109882"
+                                           style="color: rgb(255, 255, 255); background-color: rgb(50, 65, 231); font-size: 14px; outline: 0px; box-shadow: rgba(50, 65, 231, 0.498039) 0px 0px 0px 0.2rem;">
+                                            Faire un don
+                                        </a>
+                                        <br/>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </xpath>
+    </template>
+
+    <template id="layout_footer_copyright_hide"
+              inherit_id="website.layout_footer_copyright"
+              name="Hide Copyrights " active="True" customize_show="False">
+        <xpath expr="//div[hasclass('o_footer_copyright')]"
+               position="replace">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 text-muted text-center text-md-left">
+                        <span>Tous droits réservés -</span>
+                        <span t-field="res_company.name" itemprop="name">Le collectif
+                            SantéLibre
+                        </span>
+                        <span>- 2020</span>
+                        <t t-call="website.language_selector"/>
+                    </div>
+                    <div class="col-lg-6 text-right o_not_editable" t-if="not editable">
+                        <t t-call="website.brand_promotion"/>
+                    </div>
+                </div>
+            </div>
+        </xpath>
+    </template>
+
+</odoo>

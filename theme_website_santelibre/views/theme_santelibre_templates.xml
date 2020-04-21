@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="theme" name="SanteLibre" inherit_id="website.assets_frontend"
+              active="True">
+        <xpath expr="//link[last()]" position="after">
+            <link rel="stylesheet" type="text/scss"
+                  href="/theme_website_santelibre/static/src/scss/fix.scss"/>
+        </xpath>
+    </template>
+    <template id="_assets_primary_variables"
+              inherit_id="website._assets_primary_variables">
+        <xpath expr="//link[@href='/website/static/src/scss/primary_variables.scss']"
+               position="replace">
+            <link rel="stylesheet" type="text/scss"
+                  href="/theme_website_santelibre/static/src/scss/primary_variables.scss"/>
+        </xpath>
+    </template>
+</odoo>
