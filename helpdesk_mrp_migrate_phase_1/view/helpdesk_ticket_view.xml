@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<odoo>
+
+    <record id="ticket_view_form" model="ir.ui.view">
+        <field name="name">helpdesk.ticket.view.form</field>
+        <field name="model">helpdesk.ticket</field>
+        <field name="inherit_id" ref="helpdesk_mgmt.ticket_view_form"/>
+        <field name="arch" type="xml">
+            <xpath expr="//field[@name='channel_id']" position="after">
+                <field name="migration_phase_1_mrp_message"/>
+            </xpath>
+        </field>
+    </record>
+
+    <record id="ticket_migration_mrp_view_tree" model="ir.ui.view">
+        <field name="name">helpdesk.ticket.view.tree</field>
+        <field name="model">helpdesk.ticket</field>
+        <field name="inherit_id" ref="helpdesk_mgmt.ticket_view_tree"/>
+        <field name="arch" type="xml">
+
+            <xpath expr="//tree" position="inside">
+                <field name="migration_phase_1_mrp" invisible="1"/>
+            </xpath>
+
+            <xpath expr="//tree/field[@name='user_id']" position="after">
+                <field name="migration_phase_1_mrp_message"/>
+            </xpath>
+
+            <xpath expr="//tree" position="attributes">
+                <attribute name="decoration-success">migration_phase_1_mrp=='success'</attribute>
+                <attribute name="decoration-danger">migration_phase_1_mrp=='error'</attribute>
+                <attribute name="decoration-warning">migration_phase_1_mrp=='warning'</attribute>
+            </xpath>
+        </field>
+    </record>
+
+</odoo>
