@@ -9,9 +9,7 @@
                 <p>Run automated migration</p>
                 <group>
                     <group>
-<!--                        <field name="helpdesk_categories_to_merge" options="{'no_create': True}"/>-->
-<!--                        <field name="helpdesk_category_destination"/>-->
-<!--                        <field name="send_emails"/>-->
+                        <field name="select_all_tickets"/>
                     </group>
                 </group>
                 <footer>

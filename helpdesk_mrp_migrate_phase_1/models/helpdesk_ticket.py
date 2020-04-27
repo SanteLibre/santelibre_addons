@@ -19,3 +19,6 @@ class HelpdeskTicket(models.Model):
         track_visibility='onchange',
         help="Help to diagnostic the migration.",
     )
+
+    ignore_missing_company = fields.Boolean(string="Ignore missing company",
+                                            default=False)

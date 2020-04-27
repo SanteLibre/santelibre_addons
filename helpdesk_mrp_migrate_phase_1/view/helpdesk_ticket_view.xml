@@ -8,6 +8,7 @@
         <field name="arch" type="xml">
             <xpath expr="//field[@name='channel_id']" position="after">
                 <field name="migration_phase_1_mrp_message"/>
+                <field name="ignore_missing_company"/>
             </xpath>
         </field>
     </record>
