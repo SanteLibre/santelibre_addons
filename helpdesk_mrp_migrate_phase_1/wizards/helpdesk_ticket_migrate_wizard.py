@@ -166,6 +166,9 @@ class HelpdeskMergeCategoryWizard(models.TransientModel):
         #     ticket.migration_phase_1_mrp_message = _(
         #         "Missing available machine")
 
+        if ticket.partner_name:
+            ticket.name = f"{ticket.partner_name} ({len(type_of_service.split(','))})"
+
         return region, company_name, type_of_service, printer_dimension, \
                available_material, other_available_material, other_machine_available, \
                available_machine
