@@ -42,9 +42,7 @@ class HelpdeskMergeCategoryWizard(models.TransientModel):
         for ticket in tickets:
             i += 1
             print(f"{i}/{i_max} migration")
-            result = self._migrate_ticket(ticket)
-            if result:
-                print(f"Got {result}")
+            self._migrate_ticket(ticket)
 
     def _migrate_ticket(self, ticket):
         region = ""
