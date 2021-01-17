@@ -15,8 +15,6 @@ All modules needed by SantéLibre.
 """,
     'depends': [
         # MathBenTech
-        'erplibre_base_hackaton',
-        'erplibre_base_enterprise_mrp',
         'website_sale',
     ],
     'data': [
